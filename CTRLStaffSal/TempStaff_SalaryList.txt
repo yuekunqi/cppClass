@@ -1,1 +1,0 @@
-No.2012060001	Name: Mary	Sex: 0	ServiceYears: 6	Person Type: Temp Staff	Salary: 400
