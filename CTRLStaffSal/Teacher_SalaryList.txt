@@ -1,0 +1,9 @@
+No.2012060006	Name: deMonse	Sex: 0	Service Years: 3
+Rank: 2	Teaching Hours: 12
+Numbers of Master(s): 3	Numbers of Doctor(s): 0	Person Type: Teacher	Salary: 4026.5
+No.2012060008	Name: Muueo	Sex: 1	Service Years: 1
+Rank: 0	Teaching Hours: 3
+Numbers of Master(s): 0	Numbers of Doctor(s): 0	Person Type: Teacher	Salary: 1390.5
+No.2012060111	Name: Jack	Sex: 0	Service Years: 32
+Rank: 3	Teaching Hours: 23
+Numbers of Master(s): 9	Numbers of Doctor(s): 3	Person Type: Teacher	Salary: 11156
